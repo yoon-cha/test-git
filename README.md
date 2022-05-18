@@ -1,4 +1,4 @@
 # test-git
-20210076 Park yoonju
+20210076 yoonju
 Kookmin Univ. AI
 English 
