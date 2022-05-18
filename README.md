@@ -1,4 +1,4 @@
 # test-git
-20210076 park yoonju where is malcha?
+20210076 park yoonju
 Kookmin Univ. AI
 English 
