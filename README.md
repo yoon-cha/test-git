@@ -1,4 +1,3 @@
 # test-git
+<<<<<<< HEAD
 20210076 park yj
-Kookmin Univ. AI
-English 
