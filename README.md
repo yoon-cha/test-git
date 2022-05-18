@@ -1,2 +1,2 @@
-20210076 park yj
-Kookmin Univ.
+20210076 parkyj
+Kookmin
